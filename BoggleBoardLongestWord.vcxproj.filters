@@ -18,13 +18,13 @@
     <ClCompile Include="BoggleBoardLongestWord.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BoggleBoard.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="RandomizedChar.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Trie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BoggleBoard.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
